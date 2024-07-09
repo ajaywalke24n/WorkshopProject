@@ -16,6 +16,8 @@ app.use(morgan('dev'));
 
 const PORT = process.env.PORT || 8080;
 
+// Pls add the necessary routes here -->
+
 app.listen(PORT, () => {
     console.log(`App is listening at port ${PORT} in mode ${process.env.DEV_MODE}`.bgBlue.white);
 });
