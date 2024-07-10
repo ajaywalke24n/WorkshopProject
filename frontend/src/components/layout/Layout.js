@@ -3,6 +3,7 @@ import Sidebar from "./Sidebar";
 import '../../styles/styles.css';
 import Footer from "./Footer";
 import Header from "./Header";
+import Search from "./Search";
 
 
 const Layout = () => {
@@ -16,7 +17,7 @@ const Layout = () => {
         </div>
         <div className="col-md-6">
           <h3 style={{margin: "10px",textAlign:'center'}}>Student Details</h3>
-          
+          <Search/>
         </div>
       </div>
     </div>

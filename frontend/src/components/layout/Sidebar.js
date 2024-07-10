@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/styles.css";
-
+import Form from "../forms/Form";
 const Sidebar = () => {
   return (
     <div>
@@ -13,7 +13,7 @@ const Sidebar = () => {
 
       <div className="main-container">
         <h3 style={{textAlign:'center'}}>Evaluate Students</h3>
-        
+        <Form/>
       </div>
     </div>
   );
