@@ -17,6 +17,10 @@ Created an application for evaluating the students and assigning them marks. Fol
 
 # Design
 ![image](https://github.com/ajaywalke24n/WorkshopProject/assets/175040142/3df2ce16-b0c0-4943-9797-d5f309bf70df)
+![image](https://github.com/ajaywalke24n/WorkshopProject/assets/175040142/c789b7a3-9efb-4509-9f50-a5361a894c5c)
+![image](https://github.com/ajaywalke24n/WorkshopProject/assets/175040142/2f964c66-8dfd-40d5-a1a6-bc83176427e2)
+
+
 
 
 # Key Features
