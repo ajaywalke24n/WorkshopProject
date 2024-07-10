@@ -16,6 +16,8 @@ Created an application for evaluating the students and assigning them marks. Fol
 - If a student is select by one assigner then it can't be selected by another one.
 
 # Design
+![image](https://github.com/ajaywalke24n/WorkshopProject/assets/175040142/3df2ce16-b0c0-4943-9797-d5f309bf70df)
+
 
 # Key Features
 ### Backend Documentation
